@@ -7,7 +7,6 @@ how many clusters is optimal, we can give algorithm any number of clusters .
 Here comes the elbow method it finds the optimal number of clusters from the graph ,in this graph we plot 
 number of clusters vs wcss (wcss is the sum of squares of the distances of each data point in all clusters to their 
 respective centroids). It find the point where it look like a elbow joint (we are entering it manually ) this is the point 
-of optimum clusters.
-Then we calculate centroid of the clusters formed from k which we got from elbow plot, we take centroid 
+of optimum clusters.Then we calculate centroid of the clusters formed from k which we got from elbow plot, we take centroid 
 of the cluster with most number of elements as final RGB for most dominating colour
 
