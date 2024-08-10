@@ -1,4 +1,4 @@
-# Dominat Color in Image
+# Dominant Color in Image
 ## Objective of the project :
 There are three main parts to find the dominant colour .Firstly we read the image and get the RGB values of image 
 using PIL library, this is the dataset for the k-mean clustering algorithm .
